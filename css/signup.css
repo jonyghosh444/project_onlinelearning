@@ -1,0 +1,28 @@
+*{ margin: 0; padding: 0; box-sizing: border-box; 
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+body{
+
+	 background-color:#FFF5EE;
+
+
+
+}
+
+.Tutorsignup{
+
+	background-color:#F0FFFF;
+	padding: 30px;
+
+
+}
+.form-control{
+	background-color: transparent !important;
+
+
+
+}
